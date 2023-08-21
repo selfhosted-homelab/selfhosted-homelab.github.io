@@ -1,4 +1,4 @@
-description = 'Documentation of Homelab'
+description = 'Documentation of selfhosted homelab'
 
 author = 'Nig3l'
 authorURL = 'https://ni-g-3l.github.io/Ni-g-3l/'
@@ -21,14 +21,14 @@ appId = ''
 indexName = ''
 apiKey = ''
 
-#[[githubRepos]]
-#name = 'Website'
-#repo = 'docura/site'
-#icon = "<i class='icon icon-book'></i>"
-#description = 'The repository of the website.'
-#
-#[[githubRepos]]
-#name = 'Code'
-#repo = 'docura/docura'
-#icon = "<i class='icon icon-theme'></i>"
-#description = 'The repository of the theme.'
+[[githubRepos]]
+name = 'Homelab'
+repo = 'selfhosted-homelab/homelab'
+icon = "<i class='icon icon-home'></i>"
+description = 'The repository of the homelab.'
+
+[[githubRepos]]
+name = 'Documentation'
+repo = 'selfhosted-homelab/selfhosted-homelab.github.io'
+icon = "<i class='icon icon-book'></i>"
+description = 'The repository of the documentation.'

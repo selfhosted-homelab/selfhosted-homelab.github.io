@@ -1,4 +1,4 @@
-title = 'Docura'
+title = '🏠 Homelab'
 baseURL = 'https://selfhosted-homelab.github.io/'
 
 defaultContentLanguage = 'en'
