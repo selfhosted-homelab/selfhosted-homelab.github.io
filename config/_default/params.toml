@@ -1,0 +1,34 @@
+description = 'Documentation of Homelab'
+
+author = 'Nig3l'
+authorURL = 'https://ni-g-3l.github.io/Ni-g-3l/'
+
+currentYear = 2023
+
+githubURL = 'https://github.com/Ni-g-3l'
+youtubeURL = ''
+twitterURL = ''
+facebookURL = ''
+
+githubRepo = 'Ni-g-3l/homelab'
+githubSponsorURL = ''
+buyMeACoffeeURL = ''
+
+[algolia]
+[algolia.en]
+container = ''
+appId = ''
+indexName = ''
+apiKey = ''
+
+#[[githubRepos]]
+#name = 'Website'
+#repo = 'docura/site'
+#icon = "<i class='icon icon-book'></i>"
+#description = 'The repository of the website.'
+#
+#[[githubRepos]]
+#name = 'Code'
+#repo = 'docura/docura'
+#icon = "<i class='icon icon-theme'></i>"
+#description = 'The repository of the theme.'
