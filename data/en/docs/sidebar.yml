@@ -3,3 +3,10 @@
     - title: Overview
     - title: Docker
     - title: Portainer
+
+- title: Monitoring
+  pages:
+    - title: Grafana
+    - title: Prometheus
+    - title: Node Exporter
+    - title: cAdvisor
