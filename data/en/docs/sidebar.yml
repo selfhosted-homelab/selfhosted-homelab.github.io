@@ -10,3 +10,8 @@
     - title: Prometheus
     - title: Node Exporter
     - title: cAdvisor
+
+- title: Media Center
+  pages:
+    - title: Jellyfin
+    - title: JDownloader
