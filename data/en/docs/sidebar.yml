@@ -14,4 +14,12 @@
 - title: Media Center
   pages:
     - title: Jellyfin
+    - title: Kavita
     - title: JDownloader
+
+- title: Administration
+  pages:
+    - title: Portainer
+    - title: PiHole
+    - title: Nginx Proxy Manager
+  
